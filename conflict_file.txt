@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Merge conflict 1+2
-=======
-hello i will conflict
->>>>>>> conflict-A
