@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi I am adding this file
+=======
+Hello I am chaning this so its different
+>>>>>>> b1
